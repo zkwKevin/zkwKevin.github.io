@@ -1,37 +1,25 @@
 ## Welcome to K.Coding Garden
 
-I grew up in a Githouse that had a small garden and I was always surrounded with plants. 
+**I grew up in a Githouse that had a small garden and I was always surrounded with plants.**
+**欢迎来到K蔻汀花园**
 
-### Front door fountain
+# Front door fountain
 
 
 
-### Flower bed
-[Machine Learning (Python)]({% post_url 2019-08-15-ml %})
-```
-Machine Learning A-Z™
-```
+# Flower bed
+1. C# 学习心得
+2. Python 学习心得
 
-### Flower Category
-1. C#
-2. Python
-3. React
-### Trellis
-### Tools
-```markdown
-Syntax highlighted code block
+# Flower Category
+1. C# 学习心得
+2. Python 学习心得
 
-# Header 1
-## Header 2
-### Header 3
+# Trellis
 
-- Bulleted
-- List
+# Mistery Corner
+## [Machine Learning (Python)]({% post_url 2019-08-15-ml %})
 
-1. Numbered
-2. List
+### Machine Learning A-Z™
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
