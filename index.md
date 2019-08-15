@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 ```markdown
-# Machine Learning (Python)
+# Machine Learning (Python)[post]( { {  site.baseurl } } { % post_url 2019-08-15-ml  % } )
 
 ```
 
