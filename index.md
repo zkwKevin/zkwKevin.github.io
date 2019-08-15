@@ -26,10 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-```markdown
-[Machine Learning (Python)]( _post/2019-08-15-ml.md )
 
-```
+[Machine Learning (Python)]({% post_url 2019-08-15-ml %})
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
